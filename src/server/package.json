@@ -14,7 +14,7 @@
     "http-errors": "^1.7.3",
     "joi": "^14.3.1",
     "js-md5": "^0.7.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "log4js": "^6.1.2",
     "mariadb": "^2.3.1",
